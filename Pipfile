@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipython = "==8.3.0"
+requests = "==2.27.1"
+fabric = "==2.7.0"
+fastapi = "==0.78.0"
+
+[dev-packages]
+flake8 = "==4.0.1"
+autopep8 = "==1.6.0"
+autoflake8 = "==0.3.2"
+
+[requires]
+python_version = "3.10"
