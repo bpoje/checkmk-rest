@@ -1,7 +1,7 @@
 # Docker for work with Check MK
 Author: Blaž Poje
 
-Description: A docker that uses REST API (in Python) to connect to remote Check MK server an perform operations.
+Description: A docker that uses Python & REST API to connect to remote Check MK server an perform operations.
 
 Prebuild images are available on [Docker Hub](https://hub.docker.com/r/bpoje/checkmk-rest/tags).
 
